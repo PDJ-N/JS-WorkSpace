@@ -50,3 +50,7 @@
  visibility: visible;
  opacity : 1;
 }
+
+.alert {
+  display:block
+}
