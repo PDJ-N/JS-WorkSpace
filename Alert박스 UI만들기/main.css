@@ -54,3 +54,20 @@
 .alert {
   display:block
 }
+
+
+
+.slide-container{
+  width:300vw;
+
+
+
+}
+.slide-box{
+  width:100wv;
+  float: left;
+}
+.slide-box img{
+  width:100%;
+
+}
